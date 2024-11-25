@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="ASSETS/security.jpg" height="230"/>
+</p>
+<hr>
+<h1 align="center"><a href="https://github.com/Aryagm">Florian ANDREANI<a></h1>
+<Br>
+<h1>About Me! 😎</h1>
 
-<!--
-**florian-andreani/Florian-Andreani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫: Etudiant 1ere Annee Bachelor IT
+- OPTION Cybersecurite
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<hr>
+<Br>
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/florian-andreani" target="blank"><img align="center" src="https://img.shields.io/badge/florian-andreani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:florian.andreani@laplateforme.io target="blank"><img align="center" src="https://img.shields.io/badge/florian.andreani@laplateforme.io-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
